@@ -1,6 +1,6 @@
 # 🎵 Cutie Music Bot
 
-A powerful and cute Telegram music bot that can stream songs directly from YouTube, organized by language, mood, and era — made with ❤️ by my Prince.
+A powerful and cute Telegram music bot that can stream songs directly from YouTube, organized by language, mood, and era — made with love.. 
 
 ---
 
